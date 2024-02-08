@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\c.sharp\02.02home\bin\Debug\02.02home.exe.config
+C:\Users\user\source\repos\c.sharp\02.02home\bin\Debug\02.02home.exe
+C:\Users\user\source\repos\c.sharp\02.02home\bin\Debug\02.02home.pdb
+C:\Users\user\source\repos\c.sharp\02.02home\obj\Debug\02.02home.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\c.sharp\02.02home\obj\Debug\02.02home.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\c.sharp\02.02home\obj\Debug\02.02home.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c.sharp\02.02home\obj\Debug\02.02home.exe
+C:\Users\user\source\repos\c.sharp\02.02home\obj\Debug\02.02home.pdb

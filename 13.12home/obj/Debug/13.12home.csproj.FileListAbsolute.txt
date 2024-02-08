@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\c.sharp\13.12home\bin\Debug\13.12home.exe.config
+C:\Users\user\source\repos\c.sharp\13.12home\bin\Debug\13.12home.exe
+C:\Users\user\source\repos\c.sharp\13.12home\bin\Debug\13.12home.pdb
+C:\Users\user\source\repos\c.sharp\13.12home\obj\Debug\13.12home.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\c.sharp\13.12home\obj\Debug\13.12home.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\c.sharp\13.12home\obj\Debug\13.12home.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c.sharp\13.12home\obj\Debug\13.12home.exe
+C:\Users\user\source\repos\c.sharp\13.12home\obj\Debug\13.12home.pdb

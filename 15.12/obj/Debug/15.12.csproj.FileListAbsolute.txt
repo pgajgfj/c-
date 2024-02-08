@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\c.sharp\15.12\bin\Debug\15.12.exe.config
+C:\Users\user\source\repos\c.sharp\15.12\bin\Debug\15.12.exe
+C:\Users\user\source\repos\c.sharp\15.12\bin\Debug\15.12.pdb
+C:\Users\user\source\repos\c.sharp\15.12\obj\Debug\15.12.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\c.sharp\15.12\obj\Debug\15.12.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\c.sharp\15.12\obj\Debug\15.12.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c.sharp\15.12\obj\Debug\15.12.exe
+C:\Users\user\source\repos\c.sharp\15.12\obj\Debug\15.12.pdb
