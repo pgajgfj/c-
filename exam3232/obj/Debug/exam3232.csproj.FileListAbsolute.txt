@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\c.sharp\exam3232\bin\Debug\exam3232.exe.config
+C:\Users\user\source\repos\c.sharp\exam3232\bin\Debug\exam3232.exe
+C:\Users\user\source\repos\c.sharp\exam3232\bin\Debug\exam3232.pdb
+C:\Users\user\source\repos\c.sharp\exam3232\obj\Debug\exam3232.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\c.sharp\exam3232\obj\Debug\exam3232.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\c.sharp\exam3232\obj\Debug\exam3232.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c.sharp\exam3232\obj\Debug\exam3232.exe
+C:\Users\user\source\repos\c.sharp\exam3232\obj\Debug\exam3232.pdb

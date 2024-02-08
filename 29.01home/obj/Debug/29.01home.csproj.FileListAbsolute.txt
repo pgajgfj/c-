@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\c.sharp\29.01home\bin\Debug\29.01home.exe.config
+C:\Users\user\source\repos\c.sharp\29.01home\bin\Debug\29.01home.exe
+C:\Users\user\source\repos\c.sharp\29.01home\bin\Debug\29.01home.pdb
+C:\Users\user\source\repos\c.sharp\29.01home\obj\Debug\29.01home.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\c.sharp\29.01home\obj\Debug\29.01home.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\c.sharp\29.01home\obj\Debug\29.01home.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c.sharp\29.01home\obj\Debug\29.01home.exe
+C:\Users\user\source\repos\c.sharp\29.01home\obj\Debug\29.01home.pdb
