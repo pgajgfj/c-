@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.Properties.Resources.resources
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.csproj.GenerateResource.cache
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c.sharp\exam3232323\bin\Debug\exam3232323.exe.config
+C:\Users\user\source\repos\c.sharp\exam3232323\bin\Debug\exam3232323.exe
+C:\Users\user\source\repos\c.sharp\exam3232323\bin\Debug\exam3232323.pdb
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.exe
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\exam3232323.pdb
+C:\Users\user\source\repos\c.sharp\exam3232323\obj\Debug\DictionariesApp.MainForm.resources
